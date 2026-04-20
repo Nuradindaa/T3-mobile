@@ -8,5 +8,5 @@ Membuat aplikasi Android sederhana yang menampilkan form identitas mahasiswa. Da
 
 ## Hasil Aplikasi (Screenshots)
 
-| ![Screenshot 1](../screenshot/form.png) | ![Screenshot 2](path/ke/gambar2.jpg) | ![Screenshot 3](path/ke/gambar3.jpg) |
+| ![Screenshot 1](screenshot/form.png) | ![Screenshot 2](path/ke/gambar2.jpg) | ![Screenshot 3](path/ke/gambar3.jpg) |
 
